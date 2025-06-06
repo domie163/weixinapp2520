@@ -1,0 +1,224 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	},{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/wodewenjian/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我发布的文件展示"
+		}
+	},{
+		"path": "pages/wodewenjian/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我发布的文件添加/修改"
+		}
+	},{
+		"path": "pages/wodewenjian/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "教师详情"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息展示"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息添加"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息详情"
+		}
+	}
+	,{
+		"path": "pages/wenjian/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "文件信息展示"
+		}
+	},{
+		"path": "pages/wenjian/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "文件信息添加"
+		}
+	},{
+		"path": "pages/wenjian/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "文件信息详情"
+		}
+	}
+	,{
+		"path": "pages/wenjianCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "文件收藏展示"
+		}
+	},{
+		"path": "pages/wenjianCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "文件收藏添加"
+		}
+	},{
+		"path": "pages/wenjianCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "文件收藏详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "校园资料分享微信小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#d24a32",
+		"borderStyle": "black",
+		"backgroundColor": "#f06f4f",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/wenjian/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "文件信息"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
